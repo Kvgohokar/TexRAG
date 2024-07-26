@@ -1,1 +1,1 @@
-# Latex_QABot
+# Open source TexRAG
