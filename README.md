@@ -23,9 +23,9 @@ The RAG pipeline includes the following steps:
 5. **Retrieval**: Relevant chunks are retrieved based on the query.
 6. **Generation**: Retrieved chunks are used to generate the final answer using the Qwen2 model.
 
-### Testing
+## Testing
 Manual testing was conducted using a collection of queries derived from .tex files, with the primary evaluation criteria being mathematical accuracy and the extraction of relevant information.
 
-### Conclusion
+## Conclusion
 TexRAG effectively combines advanced open-source tools and custom techniques to accurately process and answer questions based on TeX files. This project demonstrates the potential of Retrieval-Augmented Generation for technical documents. With further enhancements, TexRAG can streamline the handling of complex LaTeX documents.
 
