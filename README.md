@@ -1,6 +1,6 @@
 # TexRAG: A Tex File-Based RAG Bot with Open Source Modules
 
-TexRAG is a project aimed at implementing a Retrieval-Augmented Generation (RAG) bot specifically designed to process and answer questions based on TeX files. 
+TexRAG is a project aimed at implementing a Retrieval-Augmented Generation (RAG) bot specifically designed to process and answer questions based on TeX files using only open source modules. 
 
 ## LaTeX Parser
 LATEX (pronounced “LAY-tek” or “LAH-tek”) is a tool for typesetting, commonly used for technical and scientific documentation. It provides control over document structure and formatting, making it a preferred choice for producing complex documents such as research papers, theses, and technical reports.
@@ -25,3 +25,7 @@ The RAG pipeline includes the following steps:
 
 ### Testing
 Manual testing was conducted using a collection of queries derived from .tex files, with the primary evaluation criteria being mathematical accuracy and the extraction of relevant information.
+
+### Conclusion
+TexRAG effectively combines advanced open-source tools and custom techniques to accurately process and answer questions based on TeX files. This project demonstrates the potential of Retrieval-Augmented Generation for technical documents. With further enhancements, TexRAG can streamline the handling of complex LaTeX documents.
+
